@@ -1,3 +1,0 @@
-IP of your droplet
-
-137.184.170.50
