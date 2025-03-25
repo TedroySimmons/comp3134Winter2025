@@ -1,0 +1,222 @@
+Distinct Domain 1: Facebook
+
+Registrant Contact Information:
+Name: Domain Admin
+Organization: Meta Platforms, Inc.
+Address Line 1: 1601 Willow Rd
+Address Line 2:
+City: Menlo Park
+State/Province: CA
+Postal Code: 94025
+Country: US
+Phone: +1.6505434800
+Fax:
+Email:
+Full Address: 1601 Willow Rd, Menlo Park, CA, 94025, US
+
+Administrative Contact Information:
+Name: Domain Admin
+Organization: Meta Platforms, Inc.
+Address Line 1: 1601 Willow Rd
+Address Line 2:
+City: Menlo Park
+State/Province: CA
+Postal Code: 94025
+Country: US
+Phone: +1.6505434800
+Fax:
+Email:
+Full Address: 1601 Willow Rd, Menlo Park, CA, 94025, US
+
+Tech Contact Information:
+Name: Domain Admin
+Organization: Meta Platforms, Inc.
+Address Line 1: 1601 Willow Rd
+Address Line 2:
+City: Menlo Park
+State/Province: CA
+Postal Code: 94025
+Country: US
+Phone: +1.6505434800
+Fax:
+Email:
+Full Address: 1601 Willow Rd, Menlo Park, CA, 94025, US
+
+Distinct Domain 2: X/Twitter
+
+Registrant Contact Information:
+Name: Twitter, Inc.
+Organization: Twitter, Inc.
+Address Line 1: 1355 Market Street
+Address Line 2:
+City: San Francisco
+State/Province: CA
+Postal Code: 94103
+Country: US
+Phone: +1.4152229670
+Fax: +1.4152220922
+Email:
+Full Address: 1355 Market Street, San Francisco, CA, 94103, US
+
+Administrative Contact Information:
+Name: Domain Admin
+Organization: Twitter, Inc.
+Address Line 1: 1355 Market Street
+Address Line 2:
+City: San Francisco
+State/Province: CA
+Postal Code: 94103
+Country: US
+Phone: +1.4152229670
+Fax: +1.4152220922
+Email:
+Full Address: 1355 Market Street, San Francisco, CA, 94103, US
+
+Tech Contact Information:
+Name: Tech Admin
+Organization: Twitter, Inc.
+Address Line 1: 1355 Market Street
+Address Line 2:
+City: San Francisco
+State/Province: CA
+Postal Code: 94103
+Country: US
+Phone: +1.4152229670
+Fax: +1.4152220922
+Email:
+Full Address: 1355 Market Street, San Francisco, CA, 94103, US
+
+Distinct Domain 3: YouTube
+
+Registrant Contact Information:
+Name:
+Organization: Google LLC
+Address Line 1:
+Address Line 2:
+City:
+State/Province: CA
+Postal Code:
+Country: US
+Phone:
+Fax:
+Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Full Address: CA, US
+
+Administrative Contact Information:
+Name:
+Organization: Google LLC
+Address Line 1:
+Address Line 2:
+City:
+State/Province: CA
+Postal Code:
+Country: US
+Phone:
+Fax:
+Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Full Address: CA, US
+
+Tech Contact Information:
+Name:
+Organization: Google LLC
+Address Line 1:
+Address Line 2:
+City:
+State/Province: CA
+Postal Code:
+Country:
+US
+Phone:
+Fax:
+Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Full Address: CA, US
+
+Distinct Domain 4: Amazon
+
+Registrant Contact Information:
+Name: Hostmaster, Amazon Legal Dept.
+Organization: Amazon Technologies, Inc.
+Address Line 1: P.O. Box 8102
+Address Line 2:
+City: Reno
+State/Province: NV
+Postal Code: 89507
+Country: US
+Phone: +1.2062664064
+Fax: +1.2062667010
+Email:
+Full Address: P.O. Box 8102, Reno, NV, 89507, US
+
+Administrative Contact Information:
+Name: Hostmaster, Amazon Legal Dept.
+Organization: Amazon Technologies, Inc.
+Address Line 1: P.O. Box 8102
+Address Line 2:
+City: Reno
+State/Province: NV
+Postal Code: 89507
+Country: US
+Phone: +1.2062664064
+Fax: +1.2062667010
+Email:
+Full Address: P.O. Box 8102, Reno, NV, 89507, US
+
+Tech Contact Information:
+Name: Hostmaster, Amazon Legal Dept.
+Organization: Amazon Technologies, Inc.
+Address Line 1: P.O. Box 8102
+Address Line 2:
+City: Reno
+State/Province: NV
+Postal Code: 89507
+Country: US
+Phone: +1.2062664064
+Fax: +1.2062667010
+Email:
+Full Address: P.O. Box 8102, Reno, NV, 89507, US
+
+Distinct Domain 5: Reddit
+
+Registrant Contact Information:
+Name:
+Organization: Reddit Inc.
+Address Line 1:
+Address Line 2:
+City:
+State/Province: CA
+Postal Code:
+Country: US
+Phone:
+Fax:
+Email: Select Request Email Form at https://domains.markmonitor.com/whois/reddit.com
+Full Address: CA, US
+
+Administrative Contact Information:
+Name:
+Organization: Reddit Inc.
+Address Line 1:
+Address Line 2:
+City:
+State/Province:
+CA
+Postal Code:
+Country:
+US
+Phone:
+Fax:
+Email: Select Request Email Form at https://domains.markmonitor.com/whois/reddit.com
+Full Address: CA, US
+
+Tech Contact Information:
+Name:
+Organization: Reddit Inc.
+Address Line 1:
+Address Line 2:
+City:
+State/Province: CA
+Postal Code:
+Country: US
+Phone:
+Fax:
+Email: Select Request Email Form at https://domains.markmonitor.com/whois/reddit.com
+Full Address: CA, US

@@ -1,0 +1,50 @@
+root@comp3134:~# nmap georgebrown.ca
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-03-25 23:43 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0021s latency).
+rDNS record for 198.96.86.176: startgbc.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.12 seconds
+
+root@comp3134:~# nmap walmart.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-03-25 23:45 UTC
+Nmap scan report for walmart.com (23.32.120.171)
+Host is up (0.013s latency).
+rDNS record for 23.32.120.171: a23-32-120-171.deploy.static.akamaitechnologies.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.95 seconds
+
+root@comp3134:~# nmap sony.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-03-25 23:46 UTC
+Nmap scan report for sony.com (52.6.127.76)
+Host is up (0.020s latency).
+Other addresses for sony.com (not scanned): 44.218.59.236
+rDNS record for 52.6.127.76: ec2-52-6-127-76.compute-1.amazonaws.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.10 seconds
+
+root@comp3134:~# nmap displate.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-03-25 23:47 UTC
+Nmap scan report for displate.com (172.64.147.240)
+Host is up (0.0027s latency).
+Other addresses for displate.com (not scanned): 104.18.40.16 2606:4700:4400::ac40:93f0 2606:4700:4400::6812:2810
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 16.05 seconds

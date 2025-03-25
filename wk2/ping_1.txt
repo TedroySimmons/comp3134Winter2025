@@ -1,0 +1,9 @@
+root@comp3134:~# ping youtube.com -w 3
+PING youtube.com (172.217.1.14) 56(84) bytes of data.
+64 bytes from iad23s25-in-f14.1e100.net (172.217.1.14): icmp_seq=1 ttl=59 time=1.57 ms
+64 bytes from iad23s25-in-f14.1e100.net (172.217.1.14): icmp_seq=2 ttl=59 time=1.27 ms
+64 bytes from iad23s25-in-f14.1e100.net (172.217.1.14): icmp_seq=3 ttl=59 time=1.19 ms
+
+--- youtube.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 1.190/1.345/1.574/0.165 ms
