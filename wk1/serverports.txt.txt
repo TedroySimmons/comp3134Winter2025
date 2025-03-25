@@ -1,0 +1,22 @@
+
+
+Question 1
+A server port is a logical endpoint, identified by a number, that allows a server to communicate with clients or other servers over a network, enabling data exchange between specific applications or services
+
+Question 2
+server port range is from 0 to 65535
+
+Question 3
+The port number range (0–65535) is represented using 16 bits
+
+Question 4
+20 File Transfer Protocol
+22 Secure Shell
+23 Unsecured Remote Login
+25 Simple Mail Transfer Protocol
+53 Domain Name System
+80 HyperText Transfer Protocol
+110 Post Office Protocol
+143 Internet Message Access Protocol
+443 Secure HTTP
+3306 MySQL Database
