@@ -1,0 +1,19 @@
+root@comp3134:~# tcpdump -i eth0 port 22
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+04:41:09.130412 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 743356778:743356886, ack 3442928404, win 479, length 108
+04:41:09.130551 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 108:264, ack 1, win 479, length 156
+04:41:09.130600 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 264:332, ack 1, win 479, length 68
+04:41:09.130680 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 332:368, ack 1, win 479, length 36
+04:41:09.135352 IP bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434 > comp3134.ssh: Flags [.], ack 368, win 251, length 0
+04:41:09.235307 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 368:724, ack 1, win 479, length 356
+04:41:09.235451 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 724:1200, ack 1, win 479, length 476
+04:41:09.241084 IP bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434 > comp3134.ssh: Flags [.], ack 1200, win 255, length 0
+04:41:09.334894 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 1200:1676, ack 1, win 479, length 476
+04:41:09.384769 IP bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434 > comp3134.ssh: Flags [.], ack 1676, win 254, length 0
+04:41:09.438996 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 1676:2008, ack 1, win 479, length 332
+04:41:09.491704 IP bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434 > comp3134.ssh: Flags [.], ack 2008, win 252, length 0
+^C
+12 packets captured
+16 packets received by filter
+0 packets dropped by kernel

@@ -1,0 +1,11 @@
+root@comp3134:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+04:24:10.757202 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.53075: Flags [P.], seq 54395348:54395456, ack 3547515924, win 472, length 108
+04:24:10.757424 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.53075: Flags [P.], seq 108:168, ack 1, win 472, length 60
+04:24:10.757482 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.53075: Flags [P.], seq 168:268, ack 1, win 472, length 100
+04:24:10.761538 IP bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.53075 > comp3134.ssh: Flags [.], ack 268, win 253, length 0
+04:24:10.855488 IP comp3134.44074 > 67.207.67.2.domain: 30410+ [1au] PTR? 178.162.113.142.in-addr.arpa. (57)
+5 packets captured
+27 packets received by filter
+0 packets dropped by kernel

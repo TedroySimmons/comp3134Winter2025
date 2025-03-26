@@ -1,0 +1,11 @@
+root@comp3134:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+04:37:45.288579 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 743341974:743342018, ack 3442927576, win 479, length 44
+04:37:45.288655 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 44:96, ack 1, win 479, length 52
+04:37:45.288702 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 96:164, ack 1, win 479, length 68
+04:37:45.288743 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 164:232, ack 1, win 479, length 68
+04:37:45.288786 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434: Flags [P.], seq 232:268, ack 1, win 479, length 36
+04:37:45.293427 IP bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.65434 > comp3134.ssh: Flags [.], ack 268, win 252, length 0
+04:37:51.091752 IP ip-58-194.4vendeta.com.53719 > comp3134.20137: Flags [S], seq 130321611, win 1025, options [mss 1460], length 0
+04:37:51.600468 IP sharon.probe.onyphe.net.57578 > comp3134.4126: Flags [S], seq 237566827, win 5840, options [mss 1460,TS val 1145389380 ecr 0,wscale 1,sackOK,eol], length 0
+04:37:53.950733 IP comp3134.ssh > 45.135.232.186.48200: Flags [P.], seq 1814646627:1814646669, ack 4086254680, win 510, options [nop,nop,TS val 2103756869 ecr 1499073351], length 42: SSH: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.8
