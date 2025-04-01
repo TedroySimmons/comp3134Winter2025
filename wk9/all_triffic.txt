@@ -1,0 +1,20 @@
+tcpdump -i any -nn -w all_traffic_$(date +"%Y%m%d_%H%M").pcap
+
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+21:08:35.209792 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.60572: Flags [P.], seq 4094083579:4094083767, ack 2569506747, win 479, length 188
+21:08:35.214466 IP bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.60572 > comp3134.ssh: Flags [.], ack 188, win 250, length 0
+21:08:35.311939 IP comp3134.54123 > 67.207.67.2.domain: 13590+ [1au] PTR? 178.162.113.142.in-addr.arpa. (57)
+21:08:35.312027 IP comp3134.48335 > 67.207.67.2.domain: 65225+ [1au] PTR? 178.162.113.142.in-addr.arpa. (57)
+21:08:35.345842 IP 67.207.67.2.domain > comp3134.54123: 13590 1/0/1 PTR bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca. (127)
+21:08:35.346559 IP comp3134.49975 > 67.207.67.2.domain: 29896+ [1au] PTR? 50.170.184.137.in-addr.arpa. (56)
+21:08:35.351215 IP 67.207.67.2.domain > comp3134.48335: 65225 1/0/1 PTR bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca. (127)
+21:08:35.378368 IP 67.207.67.2.domain > comp3134.49975: 29896 NXDomain 0/1/1 (123)
+21:08:35.379160 IP comp3134.ssh > bras-base-toroon1019w-grc-11-142-113-162-178.dsl.bell.ca.60572: Flags [P.], seq 188:536, ack 1, win 479, length 348
+21:08:35.415622 IP comp3134.55599 > 67.207.67.2.domain: 61023+ [1au] PTR? 2.67.207.67.in-addr.arpa. (53)
+21:08:35.415702 IP comp3134.50293 > 67.207.67.2.domain: 50744+ [1au] PTR? 2.67.207.67.in-addr.arpa. (53)
+^C21:08:35.420449 IP 61.184.26.197.42158 > comp3134.ssh: Flags [P.], seq 4125496959:4125497596, ack 3557238857, win 126, options [nop,nop,TS val 4068329461 ecr 1536989958], length 637
+
+12 packets captured
+74 packets received by filter
+38 packets dropped by kernel
