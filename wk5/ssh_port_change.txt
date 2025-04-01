@@ -1,0 +1,2 @@
+step 6: service ssh restart
+step 7: ssh -p 2222 root@137.184.170.50
