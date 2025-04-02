@@ -1,0 +1,3 @@
+Uses echo to print headers and comments in a structured way.
+Loops through each header type (h1-h6) dynamically instead of hardcoding.
+Uses PHP variables to store header texts and their corresponding comments.

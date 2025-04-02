@@ -1,0 +1,1 @@
+restrict access to html directory use basename() to prevent directory traversal ensure the directory exists using file_exists() and is_dir() block filenames by checking for a dot in input
