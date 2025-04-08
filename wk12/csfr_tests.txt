@@ -1,0 +1,5 @@
+1. In the file `csfr_form.php`, the website generates a random token called `confirmation` and stores it in the session. This token helps make sure that the form is being submitted from the actual site and not from somewhere else.
+2. The form has a hidden field that sends the `confirmation` token when you submit it. This token matches the one stored in the session.
+3. In `csfr.html`, the malicious attacker uses JavaScript to automatically submit a form to the website. This form pretends to be a real user’s submission, but it sends a fake `confirmation` token, so the server can’t tell if the form is actually from the real user.
+4. If someone tries to attack the website using this CSRF trick, they can’t succeed because the server checks that the `confirmation` token from the form matches the one saved in the session. If they don’t match, the server rejects the form submission.
+

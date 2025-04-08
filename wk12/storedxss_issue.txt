@@ -1,0 +1,10 @@
+Problem: Stored XSS (Cross-Site Scripting)
+
+What’s happening:
+The website shows stuff from a file (storedxss.txt) right on the page without checking or cleaning it first.
+
+Why it’s bad:
+If someone puts something like a <script> tag in that file, it will run when anyone visits the page. This means the attacker can make popups, steal login info, or send people to a different page without them knowing.
+
+How to fix it:
+The website should make sure any text from a file is safe before showing it. This can be done using code like htmlspecialchars() in PHP, so it shows the text but doesn’t actually run it.
