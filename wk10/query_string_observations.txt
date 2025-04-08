@@ -1,0 +1,4 @@
+1. when typing dog a drop down appears showing me other suggestions once entered it takes me to the page for the word dog 
+2. it gives me a no results found for owejbijkwer page 
+3. no drop down this time and once entered it takes me to a No results found for <script>alert('hello')</script> page
+4. the same thing happens from step 3

@@ -1,0 +1,4 @@
+1. I now see at the top of the page the text I entered 
+2. nothing has changed from before 
+3. it now displayes that i entered (%27hello%27) at the top of the page 
+4. it now displayes that i entered ('hello') at the top of the page
